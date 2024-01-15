@@ -1,6 +1,6 @@
 # JavaScript Calculator
 
-![Calculator Demo](<[link to demo image or gif](https://github.com/SherAli2022000/Javascript-Calculator/blob/main/calculatorImage.PNG)>)
+![Calculator Demo](<https://github.com/SherAli2022000/Javascript-Calculator/blob/main/calculatorImage.PNG>)
 
 A simple JavaScript calculator application that performs basic arithmetic operations.
 
