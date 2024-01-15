@@ -1,26 +1,25 @@
-#JavaScript Calculator
+# JavaScript Calculator
+
+![Calculator Demo](<link to demo image or gif>)
 
 A simple JavaScript calculator application that performs basic arithmetic operations.
 
-##Features
-  -Addition
-  -Subtraction
-  -Multiplication
-  -Division
+## Features
 
-#Getting Started
+- Addition
+- Subtraction
+- Multiplication
+- Division
 
-#Prerequisites
-  -Web browser (Google Chrome, Mozilla Firefox, etc.)
+## Getting Started
 
-#Installation
-  -Clone the repository:
-    bash git clone https://github.com/SherAli2022000/Javascript-Calculator.git
+### Prerequisites
 
-  -Open index.html in your preferred web browser.
+- Web browser (Google Chrome, Mozilla Firefox, etc.)
 
-#Usage
-  -Enter numbers using the on-screen buttons.
-  -Use the operation buttons to perform calculations.
-  -The result will be displayed on the screen.
+### Installation
 
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/SherAli2022000/Javascript-Calculator.git
